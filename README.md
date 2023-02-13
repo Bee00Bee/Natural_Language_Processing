@@ -1,4 +1,4 @@
-# NLP basics
+# Natural Language Processing
 
 ### Introduction
 Here I cover the basic concepts in NLP. The general ideas of Stop Words, Tokenization, and Stemming & Lemmitizataion are discussed. 
